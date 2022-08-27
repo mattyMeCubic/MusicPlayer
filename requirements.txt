@@ -1,0 +1,12 @@
+coverage==5.5
+Cython==0.29.22
+deprecation==2.1.0
+filetype==1.0.7
+packaging==20.9
+pyparsing==2.4.7
+PyQt5==5.15.2
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.8.1
+PyQt5-stubs==5.15.2.0
+toml==0.10.2
+eyed3==0.9.6
